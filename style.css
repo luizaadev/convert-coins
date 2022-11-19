@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://i.postimg.cc/4N14CqsM/background.webp");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.container {  
+  margin-top: 80px;
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: rgb(255, 255, 255);
+  margin: 90 0 5px;
+}
+
+.page-subtitle {
+  color: rgb(255, 255, 255);
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: rgb(255, 255, 255);
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
